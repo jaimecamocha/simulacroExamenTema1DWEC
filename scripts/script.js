@@ -1,5 +1,5 @@
 // JAIME FERNÁNDEZ CALVO
-// 
+// https://github.com/jaimecamocha/simulacroExamenTema1DWEC.git
 
 function calcularAreaPerimetro(){
     let longitud = document.getElementById("longitud").value;
